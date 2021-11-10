@@ -1,7 +1,7 @@
 # PROYECTO_POO
 UNIVERSIDAD DON BOSCO
 
----INTEGRANTES:---
+INTEGRANTES:
 ---Rebeca Saraí Alvarenga Hernández AH210388---
 ---Diego Benjamín Guerrero Zelaya GZ210369---
 ---Jefferson Ernesto Menjívar Beltrán MB211751---
