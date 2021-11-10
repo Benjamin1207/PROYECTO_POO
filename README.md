@@ -1,11 +1,5 @@
 # PROYECTO_POO
-UNIVERSIDAD DON BOSCO
 
-INTEGRANTES:
----Rebeca Saraí Alvarenga Hernández AH210388---
----Diego Benjamín Guerrero Zelaya GZ210369---
----Jefferson Ernesto Menjívar Beltrán MB211751---
----Yesenia Nicole Novoa Velaásquez NV210134---
 
 ----La Licensia a usar en el poyecto es la siguiente----
 Attribution-NonCommercial-NoDerivatives 3.0 IGO
