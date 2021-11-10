@@ -1,6 +1,11 @@
 # PROYECTO_POO
-Para el siguiente proyecto necesita saber lo siguiente:
+UNIVERSIDAD DON BOSCO
 
+INTEGRANTES:
+Rebeca Saraí Alvarenga Hernández AH210388
+Diego Benjamín Guerrero Zelya  GZ210369
+Jefferson Ernesto Menjívar Beltrán MB211751
+Yesenia Nicole Novoa Velásquez  NV210134
 
 ----La Licensia a usar en el poyecto es la siguiente----
 Attribution-NonCommercial-NoDerivatives 3.0 IGO
@@ -24,7 +29,7 @@ todas las funciones del programa
 
 
 --MANUAL USUARIO [DISEÑO]--
-https://github.com/Benjamin1207/PROYECTO_POO/blob/PRINCIPAL/Manual%20de%20usuario%20(dise%C3%B1o)%2C%20FASE%202.pdf
+https://github.com/Benjamin1207/PROYECTO_POO/blob/PRINCIPAL/Manual%20de%20usuario(dise%C3%B1o)-%20fase%20final%20del%20proyecto..pdf
 
 
 --MANUAL USUARIO [FORMATO]--
