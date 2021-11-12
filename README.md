@@ -1,5 +1,7 @@
 # PROYECTO_POO
+UNIVERSIDAD DON BOSCO
 
+Integrantes:
 
 ----La Licensia a usar en el poyecto es la siguiente----
 Attribution-NonCommercial-NoDerivatives 3.0 IGO
