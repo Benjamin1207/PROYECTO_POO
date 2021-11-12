@@ -3,6 +3,10 @@ UNIVERSIDAD DON BOSCO
 
 Integrantes:
 
+Rebeca Saraí Alvarenga
+
+Diego Benjamín Guerrero Zelaya
+
 ----La Licensia a usar en el poyecto es la siguiente----
 Attribution-NonCommercial-NoDerivatives 3.0 IGO
 
