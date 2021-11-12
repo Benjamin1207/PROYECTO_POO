@@ -2,10 +2,14 @@
 UNIVERSIDAD DON BOSCO
 
 Integrantes:
+ 
+ Rebeca Saraí Alvarenga Hernandez AH210388
 
-Rebeca Saraí Alvarenga
+Diego Benjamín Guerrero  Zelaya GZ210369
 
-Diego Benjamín Guerrero Zelaya
+Jefferson Ernesto  Menjívar Beltran MB211751
+
+Yesenia Nicole Novoa Velásquez NV210134
 
 ----La Licensia a usar en el poyecto es la siguiente----
 Attribution-NonCommercial-NoDerivatives 3.0 IGO
@@ -20,6 +24,7 @@ traducciones, necesitará la autorización previa y por escrito de Ediciones UNE
 Esta es la licencia Creative Commons más restrictiva.
 
 ---Para una demostracion mas detallada del funcionamiento mirar loa siguientes videos:
+
 USO DE TRELLO: https://youtu.be/d2NBTg985oc
 
 --si por algún motivo el programa no funciona, intente abrirlo de nuevo---
