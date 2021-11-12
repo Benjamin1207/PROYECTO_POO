@@ -13,8 +13,8 @@ utilización comercial del contenido de nuestra publicación, asi como reutiliza
 traducciones, necesitará la autorización previa y por escrito de Ediciones UNESCO. 
 Esta es la licencia Creative Commons más restrictiva.
 
----Para una demostracion mas detallada del funcionamiento mirar el siguiente video-----
-VIDEO: https://youtu.be/9st1ASUuyRo
+---Para una demostracion mas detallada del funcionamiento mirar loa siguientes videos:
+USO DE TRELLO: https://youtu.be/d2NBTg985oc
 
 --si por algún motivo el programa no funciona, intente abrirlo de nuevo---
 
