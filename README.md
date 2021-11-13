@@ -41,7 +41,7 @@ https://youtu.be/-L0tpbH9D70
 
 CODIGO DE PROGRAMACIÓN: https://youtu.be/fgFUm8aLk1c
 
-FUNCIONALIDAD:
+FUNCIONALIDAD: https://youtu.be/tcrOObY-IhE
 
 --Link de la base de datos del proyecto--
 
