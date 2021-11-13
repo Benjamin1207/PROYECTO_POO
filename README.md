@@ -27,13 +27,17 @@ Esta es la licencia Creative Commons más restrictiva.
 
 USO DE TRELLO: https://youtu.be/d2NBTg985oc
 
-USO DE GIT:
+USO DE GIT : https://youtu.be/8q97bMe1-U8
 
-MANUALES:
+MANUALES 
+
+DISEÑO:
+
+FORMATO:
 
 BASE DE DATOS:
 
-CODIGO DE PROGRAMACIÓN:
+CODIGO DE PROGRAMACIÓN: https://youtu.be/fgFUm8aLk1c
 
 FUNCIONALIDAD:
 
