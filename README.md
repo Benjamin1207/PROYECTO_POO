@@ -35,11 +35,17 @@ DISEÑO:
 
 FORMATO:
 
-BASE DE DATOS:
+BASE DE DATOS:https://youtu.be/LDuQiDJVwes
+
+https://youtu.be/-L0tpbH9D70
 
 CODIGO DE PROGRAMACIÓN: https://youtu.be/fgFUm8aLk1c
 
 FUNCIONALIDAD:
+
+--Link de la base de datos del proyecto--
+
+https://github.com/Benjamin1207/PROYECTO_MBD/blob/main/Fase_Final_ProyectoVeterinaria.sql
 
 --si por algún motivo el programa no funciona, intente abrirlo de nuevo---
 
