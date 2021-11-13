@@ -31,7 +31,7 @@ USO DE GIT : https://youtu.be/8q97bMe1-U8
 
 MANUALES 
 
-DISEÑO:
+DISEÑO: https://youtu.be/BlGIOykHjwQ
 
 FORMATO:
 
