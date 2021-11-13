@@ -33,7 +33,7 @@ MANUALES
 
 DISEÑO: https://youtu.be/BlGIOykHjwQ
 
-FORMATO:
+FORMATO : https://youtu.be/l319m-nrCj0
 
 BASE DE DATOS:https://youtu.be/LDuQiDJVwes
 
@@ -58,4 +58,4 @@ https://github.com/Benjamin1207/PROYECTO_POO/blob/PRINCIPAL/Manual%20de%20usuari
 
 
 --MANUAL USUARIO [FORMATO]--
-https://github.com/Benjamin1207/PROYECTO_POO/blob/PRINCIPAL/Manual%20de%20usuario%20(formato)%2C%20FASE%202.pdf
+https://github.com/Benjamin1207/PROYECTO_POO/blob/PRINCIPAL/Manual%20de%20usuario%20(formato)-fase%20final%20del%20proyecto.pdf
